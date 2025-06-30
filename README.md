@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Balasrihari
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning in github
-- 💞️ I’m looking to collaborate on some sources 
-- 📫 by using email you can reach me
-- 😄 Pronouns: react
-- ⚡ Fun fact: nothing
+# Hi there, I'm Raghavavarapu Balasrihari 👋
 
-<!---
-Balasrihari/Balasrihari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----
+## About Me
+I'm a developer passionate about building innovative solutions.
+
+## Skills
+* Programming languages: JavaScript, Python, Java
+* Frameworks: React, Node.js, Django
+* Tools: Docker, Git, VSCode
+
+## Contact Me
+* GitHub: https://github.com/raghavarapu bala Sri Hari 
+* LinkedIn: www.linkedin.com/in/raghavarapu-balasrihari-23h71a54b1
+
